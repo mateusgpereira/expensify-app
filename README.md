@@ -3,13 +3,13 @@
 
 <blockquote align="center">An app for expense control developed in a React course.</blockquote>
 
-<h4 align="center">Sign in with your Google Account.</h4>
+<h3 align="center">Sign in with your Google Account.</h3>
 
 <p align="center">
   <img alt="Application Header" src="../media/imgs/header_login.png?raw=true">
 </p>
- 
-<h4 align="center">Easily manage yours expenses.</h4>
+&nbsp  
+<h3 align="center">Easily manage yours expenses.</h3>
 
 <p align="center">
   <img alt="Application Dashboard" src="../media/imgs/dash.png?raw=true">
