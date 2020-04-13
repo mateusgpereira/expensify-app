@@ -1,3 +1,5 @@
+<center>
+
 # Expensify App
 > An app for expense control developed in a React course.
 
@@ -7,12 +9,13 @@
 
 Sign in with your Google Account.
 
-![](header_login.png)
+![](../media/imgs/header_login.png?raw=true)
 
 Easily manage yours expenses.
 
-![](dash.png)
+![](../media/imgs/dash.png?raw=true)
 
+</center>
 
 ## Installation
 
