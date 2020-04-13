@@ -1,21 +1,22 @@
-<center>
+<h1 align="center">Expensify App</h1>
+&nbsp  
 
-# Expensify App
-> An app for expense control developed in a React course.
+<blockquote align="center">An app for expense control developed in a React course.</blockquote>
+&nbsp  
+<p align="center">Sign in with your Google Account.</p>
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<p align="center">
+  <img alt="Application Header" src="../media/imgs/header_login.png?raw=true">
+</p>
+&nbsp  
+<p align="center">Easily manage yours expenses.</p>
 
-Sign in with your Google Account.
+<p align="center">
+  <img alt="Application Dashboard" src="../media/imgs/dash.png?raw=true">
+</p>
+&nbsp  
 
-![](../media/imgs/header_login.png?raw=true)
-
-Easily manage yours expenses.
-
-![](../media/imgs/dash.png?raw=true)
-
-</center>
+---
 
 ## Installation
 
